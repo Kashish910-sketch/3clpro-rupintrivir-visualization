@@ -38,7 +38,7 @@ The enzyme functions as a homodimer and relies on a **Cys145–His41 catalytic d
 | `panel6_grid_box.png` | Isolated ligand geometry, showing rupintrivir's peptidomimetic scaffold |
 | `panel9_final_complex.png` | Final composite view: protein + pocket mesh + ligand together |
 
-*(Images in the `figures/` folder of this repo — rename/reorganize as needed.)*
+
 
 ## Skills Demonstrated
 
